@@ -1,0 +1,17 @@
+#outline-password-input-label{
+    margin: 200px;
+    background-color: aqua;
+
+}
+
+.main{
+    display: grid;
+    /* font-size: xx-large; */
+}
+.card1{
+    font-size: xx-large;
+    border: 15px solid black;
+    text-align: center;
+    padding: 5%;
+    background-color: aqua;
+}
